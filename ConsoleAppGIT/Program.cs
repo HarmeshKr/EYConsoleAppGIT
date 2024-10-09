@@ -7,5 +7,10 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine(DateTime.Now.ToLongDateString());
         }
+
+        public int sum(int x,int y)
+        {
+            return x + y;
+        }
     }
 }
