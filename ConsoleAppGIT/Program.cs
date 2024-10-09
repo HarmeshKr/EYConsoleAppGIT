@@ -16,5 +16,9 @@
         {
             return x * y;
         }
+         public int minus(int x,int y)//done by developer2
+        {
+            return x - y;
+        }
     }
 }
